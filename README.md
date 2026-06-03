@@ -1,5 +1,3 @@
-
-
 <div>
   <h1>🌤️ Weather App</h1>
 
@@ -54,4 +52,20 @@
     • Dark mode support<br>
     • Offline caching
   </p>
+
+  <hr>
+
+ <hr>
+
+<h2>📸 Screenshots</h2>
+
+<p>
+  The screenshots below show the app UI where users can search a city and retrieve real-time weather data from the OpenWeather API.
+</p>
+
+<p align="center">
+  <img width="320" src="https://github.com/user-attachments/assets/c9eff4ff-67dd-434c-8fa6-d121dc49d12e" />
+  <img width="320" src="https://github.com/user-attachments/assets/de3575bc-2d5d-466a-89ac-c78c9d0dd69e" />
+</p>
+
 </div>
